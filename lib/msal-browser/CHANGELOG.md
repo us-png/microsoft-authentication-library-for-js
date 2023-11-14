@@ -1,8 +1,19 @@
 # Change Log - @azure/msal-browser
 
-This log was last generated on Tue, 07 Nov 2023 00:01:50 GMT and should not be manually modified.
+This log was last generated on Tue, 14 Nov 2023 21:40:14 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 3.5.1
+
+Tue, 14 Nov 2023 21:40:14 GMT
+
+### Patches
+
+- Nested App Auth minor fixes (#6672) (dasau@microsoft.com)
+- Fix logoutPopup request type (thomas.norling@microsoft.com)
+- Fix bug causing temporary cache not to be cleared #6676 (thomas.norling@microsoft.com)
+- Bump @azure/msal-common to v14.4.1
 
 ## 3.5.0
 
